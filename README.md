@@ -49,6 +49,6 @@ Hey there, fellow code adventurer! 👋 Welcome to my little corner of the codin
 ## 📣 Let's Connect!
 
 - Found a bug? Have a suggestion? Just want to chat about the game? Hit me up!
-- [My github:](https://github.com/HeroTheGreat)
+- [My github](https://github.com/HeroTheGreat)
 
 ---

@@ -30,7 +30,7 @@ Hey there, fellow code adventurer! 👋 Welcome to my little corner of the codin
 
 2. **Navigate to the Game Folder**
     ```bash
-    cd guessing-game
+    cd guessing-game(from cmd,you can download the project as a .zip also)
     ```
 
 3. **Run the Game**

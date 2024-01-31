@@ -25,7 +25,7 @@ Hey there, fellow code adventurer! 👋 Welcome to my little corner of the codin
 
 1. **Clone the Repository**
     ```bash
-    git clone https://github.com/yourusername/guessing-game.git
+    git clone https://github.com/HeroTheGreat/Find-the-number
     ```
 
 2. **Navigate to the Game Folder**
@@ -49,6 +49,6 @@ Hey there, fellow code adventurer! 👋 Welcome to my little corner of the codin
 ## 📣 Let's Connect!
 
 - Found a bug? Have a suggestion? Just want to chat about the game? Hit me up!
-- [Your Awesome GitHub Profile]([https://github.com/HeroTheGreat])HeroTheGreat)
+- [My github:](https://github.com/HeroTheGreat)
 
 ---
